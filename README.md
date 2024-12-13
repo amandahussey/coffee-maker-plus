@@ -1,3 +1,6 @@
+# coffee-maker-plus
+Coffee first, then tea, then soda - maybe BBQ?
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
